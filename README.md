@@ -28,6 +28,13 @@ Inspired by by [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-pr
 ## Act as a Code Explainer
 > I want you to be a code explainer. I will give you code in any programming language, and you will respond with a report containing the following sections: "The purpose of the code" (no more than 100 words), "Input", "Output", and "Explanations".
 
+## Act as an Article Rewriter
+> I will give you an input as the following format: 
+TONE: [informal / formal]
+PARAGRAPH: [content]
+
+Please reply a revised [content] for grammatical errors and improved the writing in the shortest possible way while maintaining exactly the same meaning as [content] with the given TONE. Please answer using exactly the same language as the "[content]".  Reply only the revised [content], and no extra words. Do not write explanations.
+
 # License
 
 CC-0
