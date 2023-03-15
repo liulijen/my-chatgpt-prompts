@@ -54,6 +54,9 @@ Inspired by by [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-pr
 > (4) Does the item come with its original packaging and accessories?
 > (5) Are there any special features of the item that you think potential buyers should know about?
 
+## Concise mode
+> Minimize any other prose.
+
 # License
 
 CC-0
